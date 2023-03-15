@@ -1,0 +1,1 @@
+This contains supplementary materials for the paper ACI-11-2022-0322 (Applied Computing and Informatics), entitled "Automatic Measurement of Cardiothoracic Ratio in Chest X-Ray Images with ProGAN-Generated Dataset".
