@@ -21,7 +21,11 @@ of male normal, female normal, and cardiomegaly classes respectively.
 
 There are two publicly available datasets used in the experiments reported in this paper. The references and links to the datasets are listed below.
 - Dataset 1
+
 https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities?select=Montgomery
+
 https://www.kaggle.com/datasets/yoctoman/shcxr-lung-mask
+
 - Dataset 2 (JSRT)
+
 https://www.kaggle.com/datasets/raddar/nodules-in-chest-xrays-jsrt
