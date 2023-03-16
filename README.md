@@ -4,3 +4,7 @@ The base deployment of U-Net architecture can be seen in Figure 1 below.
 
 <img width="419" alt="figure2" src="https://user-images.githubusercontent.com/109519153/225577321-615cc1ad-5dfc-434f-a03c-da38bc116881.png">
 Figure 1: An example of U-Net architecture.
+
+Figure 2 shows examples of segmented lungs and hearts using the proposed solution.
+[figure5.pdf](https://github.com/worapanda/ACI_CTR/files/10989128/figure5.pdf)
+Figure 2: Sample segmented lungs and hearts.
